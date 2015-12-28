@@ -1,0 +1,2 @@
+//原来定义多维list数组是这样使用的
+List<Double>[][] k = new ArrayList[grid][grid];

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lucene-core-3.6.0.jar"/>
+	<classpathentry kind="lib" path="IKAnalyzer2012FF_u1.jar"/>
+	<classpathentry kind="lib" path="lingpipe-4.1.0.jar" sourcepath="C:/Users/BOB.BOB-PC/Desktop/毕业设计/资料/Lingpipe/lingpipe-4.1.0/src"/>
+	<classpathentry kind="lib" path="lib/jna-4.0.0.jar"/>
+	<classpathentry kind="lib" path="itext-pdfa-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="itext-pdfa-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="itext-pdfa-5.5.6.jar"/>
+	<classpathentry kind="lib" path="itext-xtra-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="itext-xtra-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="itext-xtra-5.5.6.jar"/>
+	<classpathentry kind="lib" path="itextpdf-5.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="itextpdf-5.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOB.BOB-PC/Desktop/毕业设计/毕业程序设计/graduate/core-renderer.jar"/>
+	<classpathentry kind="lib" path="C:/Users/BOB.BOB-PC/Desktop/毕业设计/毕业程序设计/graduate/core-renderer-R8pre2.jar"/>
+	<classpathentry kind="lib" path="itextasian-1.5.2.jar"/>
+	<classpathentry kind="lib" path="iTextAsianCmaps.jar"/>
+	<classpathentry kind="lib" path="itext-2.0.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
